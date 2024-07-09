@@ -6,7 +6,8 @@
     padding: 0;
 }
 body{
-    font-family: "Azeret Mono", monospace;
+    font-family: "Azeret Mono";
+    width: 1440px;
 
 }
 
@@ -71,8 +72,149 @@ padding: 21px 24px 21px 24px;
 }
 /* end of first section style */
 
+
+/* 2nd section style */
 .second-section-container{
     width: 946px;
     height: 1235px;
+    margin: 0 auto;
     margin-top: 74px;
+
+}
+.second-content{
+    margin-top: 80px;
+    width: 100%;
+height: 115px;
+text-align: center;
+
+    
+}
+.second-content h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+text-align: center;
+}
+.second-content p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+opacity: 0.7;
+padding: 24px 47px 48px 47px;
+}
+.half-width{
+    width: 850px;
+height: 240px;
+margin: 0 auto;
+display: flex;
+margin-bottom: 80px;
+margin-top: 80px;
+
+}
+.half-width-content{
+    display: flex;
+    flex-direction: column;
+    width:55%;
+   align-items: normal;
+   
+}
+.half-width-content h3{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+}
+.half-width-content p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+opacity: 0.7;
+margin-top: 16px;
+margin-bottom: 32px;
+
+}
+
+.half-width-right{
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.half-width-right img{
+    width: 259.56px;
+height: 217.01px;
+}
+.link-button{
+    text-decoration: none;
+    box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+padding: 12px 20px 12px 20px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 600;
+width: 150px;
+height: 48px;
+cursor: pointer;
+}
+/* 2nd section style end */
+
+
+.third-section-container{
+    width: 1140px;
+height: 775px;
+margin: 0 auto;
+
+}
+.third-section-content{
+    width: 100%;
+height: 115px;
+text-align: center;
+margin-bottom: 80px;
+
+}
+.third-section-content h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+text-align: center;
+
+}
+.third-section-content p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+margin-top: 24px;
+
+}
+.video{
+  
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+width: 1076px;
+height: 550px;
+
+margin: 0 auto;
+
+}
+.video iframe{
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+   
 }
