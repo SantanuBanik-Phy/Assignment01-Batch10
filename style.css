@@ -218,3 +218,113 @@ margin: 0 auto;
     border-radius: 16px;
    
 }
+.fourth-My-target{
+    width: 1140px;
+height: 460px;
+margin: 0 auto;
+margin-top: 151px;
+}
+
+.my-target-content{
+    width: 100%;
+height: 115px;
+text-align: center;
+
+}
+.my-target-content h2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+text-align: center;
+}
+.my-target-content p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+margin-top: 24px;
+}
+.target-container{
+   display: flex;
+ gap: 24px;
+ margin-top: 48px;
+ width: 1140px;
+height: 299px;
+}
+.target1{
+    padding: 40px;
+    border-radius: 16px;
+
+background-color: rgba(255, 76, 30, 0.05);
+
+}
+.target1 h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 24px;
+}
+.target1 p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+.target2{
+    padding: 40px;
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+}
+.target2 h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 24px;
+}
+.target2 p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    
+}
+.target3{
+    padding: 40px;
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+}
+.target3 h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 24px;
+}
+.target3 p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+.btn-link{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+text-decoration-line: underline;
+cursor: pointer;
+}
