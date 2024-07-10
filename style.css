@@ -305,8 +305,8 @@ height: 299px;
 .target1{
     padding: 40px;
     border-radius: 16px;
-
 background-color: rgba(255, 76, 30, 0.05);
+width: 33.33%;
 
 }
 .target1 h3{
@@ -329,6 +329,7 @@ background-color: rgba(255, 76, 30, 0.05);
     padding: 40px;
     border-radius: 16px;
 background: rgba(0, 76, 232, 0.05);
+width: 33.33%;
 }
 .target2 h3{
     color: rgb(13, 19, 33);
@@ -350,8 +351,8 @@ background: rgba(0, 76, 232, 0.05);
 .target3{
     padding: 40px;
     border-radius: 16px;
-
 background: rgba(255, 223, 0, 0.05);
+width: 33.33%;
 }
 .target3 h3{
     color: rgb(13, 19, 33);
