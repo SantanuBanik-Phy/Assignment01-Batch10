@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 *{
     box-sizing: border-box;
@@ -6,7 +6,7 @@
     padding: 0;
 }
 #font{
-    font-family: "Azeret Mono", monospace;
+    font-family: "Inter", sans-serif;
     width: 1440px;
 
 }
@@ -24,7 +24,6 @@ nav{
 }
 .nav-title{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 28px;
 font-weight: 800;
 }
@@ -91,7 +90,6 @@ margin-bottom: 32px;
 }
 .developer-content h1{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
     font-size: 48px;
     font-weight: 800;
     text-align: center;
@@ -99,7 +97,6 @@ margin-bottom: 32px;
 }
 .developer-content p{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
     text-align: center;
@@ -115,7 +112,6 @@ margin-bottom: 32px;
 
 background-color: rgb(13, 19, 33);
 color: rgb(255, 255, 255);
-font-family: Azeret Mono;
 font-size: 20px;
 font-weight: 600;
 padding: 21px 24px 21px 24px;
@@ -151,14 +147,12 @@ text-align: center;
 }
 .second-content h1{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 32px;
 font-weight: 800;
 text-align: center;
 }
 .second-content p{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
 text-align: center;
@@ -187,13 +181,11 @@ padding: 50px;
 }
 .half-width-content h3{
     color: rgba(13, 19, 33, 0.7);
-font-family: Azeret Mono;
 font-size: 24px;
 font-weight: 700;
 }
 .half-width-content p{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -248,7 +240,6 @@ border: 1px solid rgb(13, 19, 33);
 opacity: 0.7;
 padding: 12px 20px 12px 20px;
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 15px;
 font-weight: 600;
 width: 150px;
@@ -277,7 +268,6 @@ margin-bottom: 80px;
 }
 .third-section-content h1{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 32px;
 font-weight: 800;
 text-align: center;
@@ -285,7 +275,6 @@ text-align: center;
 }
 .third-section-content p{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
 text-align: center;
@@ -331,14 +320,12 @@ text-align: center;
 }
 .my-target-content h2{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 32px;
 font-weight: 800;
 text-align: center;
 }
 .my-target-content p{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
 text-align: center;
@@ -360,14 +347,12 @@ width: 33.33%;
 }
 .target1 h3{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
     font-size: 24px;
     font-weight: 800;
     margin-top: 24px;
 }
 .target1 p{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
     opacity: 0.7;
@@ -382,14 +367,12 @@ width: 33.33%;
 }
 .target2 h3{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
     font-size: 24px;
     font-weight: 800;
     margin-top: 24px;
 }
 .target2 p{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
     opacity: 0.7;
@@ -405,14 +388,12 @@ width: 33.33%;
 }
 .target3 h3{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
     font-size: 24px;
     font-weight: 800;
     margin-top: 24px;
 }
 .target3 p{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
     opacity: 0.7;
@@ -421,7 +402,6 @@ width: 33.33%;
 }
 .btn-link{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 700;
 text-decoration-line: underline;
@@ -459,14 +439,12 @@ margin-top: 49px;
 }
 .support-content h2{
     color: rgb(255, 255, 255);
-font-family: Azeret Mono;
 font-size: 32px;
 text-align: center;
 }
 .support-content p{
     color: rgb(255, 255, 255);
     opacity: 0.7;
-font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
 text-align: center;
@@ -491,7 +469,6 @@ display:flex;
     padding: 19px 20px 19px 20px;
     flex: 1;
     color: rgba(13, 19, 33, 0.4);
-    font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
     height: 54px;
@@ -504,7 +481,6 @@ height: 54px;
 border-radius: 8px;
 background-color: rgb(255, 255, 255);
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 20px;
 font-weight: 600;
 text-align: center;
